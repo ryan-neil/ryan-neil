@@ -1,4 +1,4 @@
-### Hi there, I'm Ryan Neil! 🤙🏼
+# Hi there, I'm Ryan! 🤙🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-neil-413743b7/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.josephskycrest.com/)
@@ -13,15 +13,16 @@ As a software engineer, I love problem solving, learning and work within a team 
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
+<br>
 
 👨🏼‍💻 **More About Me:**
 
-- 🟢 I’m currently working on my app [CodeSnap](https://github.com/ryan-neil/CodeSnap);
-- ☁️ I’m currently learning AWS;
-- 📫 How to reach me: ryanjosephneil@gmail.com;
-- 📝 [Resume](https://www.josephskycrest.com/Resume.pdf).
+- 🟢 I’m currently working on my app [CodeSnap](https://github.com/ryan-neil/CodeSnap)
+- ☁️ I’m currently learning [AWS Cloud Computing](https://aws.amazon.com/)
+- 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
+- 📝 Download my [Resume](https://www.josephskycrest.com/Resume.pdf)!
 
-📈 **My GitHub Stats:**
+<br>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-neil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
