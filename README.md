@@ -13,16 +13,12 @@ As a software engineer, I love problem solving, learning and work within a team 
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
-<br>
-
 👨🏼‍💻 **More About Me:**
 
 - 🟢 I’m currently working on my app [CodeSnap](https://github.com/ryan-neil/CodeSnap)
 - ☁️ I’m currently learning [AWS Cloud Computing](https://aws.amazon.com/)
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
 - 📝 Download my [Resume](https://www.josephskycrest.com/Resume.pdf)!
-
-<br>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-neil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
