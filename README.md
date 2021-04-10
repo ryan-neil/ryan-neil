@@ -9,7 +9,7 @@
 
 I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I'm originally from San Diego, California but currently based in Hilo, Hawaii!
 
-As a software engineer, I love problem solving, learning and work within a team setting.
+As a software engineer, I love problem solving, learning and working within a team setting.
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
