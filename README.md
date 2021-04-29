@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan! 🤙🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-neil-413743b7/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanjneil/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.josephskycrest.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/home?lang=en)
 
@@ -18,7 +18,6 @@ As a software engineer, I love problem solving, learning and working within a te
 - 🟢 I’m currently working on my app [CodeSnap](https://github.com/ryan-neil/CodeSnap)
 - ☁️ I’m currently learning [AWS Cloud Computing](https://aws.amazon.com/)
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
-- 📝 Download my [Resume](https://www.josephskycrest.com/Resume.pdf)!
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-neil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
