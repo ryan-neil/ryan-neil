@@ -9,7 +9,7 @@
 
 I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I currently reside in San Diego, California!
 
-As a software engineer, I love problem solving, learning and working within a team setting.
+As a software engineer, I love problem solving, learning and working within a team setting. I take great care in the user experience, architecture, and quality of the code I write and things I build.
 
 <!-- <img align="center" alt="" src="" width="400" height="300" /> -->
 
