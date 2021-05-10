@@ -7,16 +7,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ryan-neil.ryan-neil)
 
 
-I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I'm originally from San Diego, California but currently based in Hilo, Hawaii!
+I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I currently reside in San Diego, California!
 
 As a software engineer, I love problem solving, learning and working within a team setting.
 
-<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
+<!-- <img align="center" alt="" src="" width="400" height="300" /> -->
 
-👨🏼‍💻 **More About Me:**
+### 👨🏼‍💻 More About Me:
 
 - 🟢 I’m currently working on my app [CodeSnap](https://github.com/ryan-neil/CodeSnap)
-- ☁️ I’m currently learning [AWS Cloud Computing](https://aws.amazon.com/)
+- 📖 I’m also currently learning [React](https://github.com/facebook/react) and [AWS Cloud Computing](https://aws.amazon.com/)
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
 
 <p>
