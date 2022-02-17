@@ -6,7 +6,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ryan-neil.ryan-neil)
 
-
 I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I currently reside in San Diego, California!
 
 As a software engineer, I love problem solving, learning and working within a team setting. I take great care in the user experience, architecture, and quality of the code I write and things I build.
@@ -15,7 +14,7 @@ As a software engineer, I love problem solving, learning and working within a te
 
 ### 👨🏼‍💻 More About Me:
 
-- 🟢 I’m currently working on my app [GoSurf](https://github.com/ryan-neil)
+- 🟢 I’m currently working on my app [GoSurf](https://github.com/ryan-neil/gosurf)
 - 📖 I’m also currently learning [React](https://github.com/facebook/react) along side [Data Structures and Algorithms](https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf)
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
 
