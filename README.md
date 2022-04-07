@@ -1,7 +1,7 @@
 # Hi there, I'm Ryan! 🤙🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanjneil/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.josephskycrest.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ryanjneil.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/home?lang=en)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ryan-neil.ryan-neil)
@@ -9,8 +9,6 @@
 I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I currently reside in San Diego, California!
 
 As a software engineer, I love problem solving, learning and working within a team setting. I take great care in the user experience, architecture, and quality of the code I write and things I build.
-
-<!-- <img align="center" alt="" src="" width="400" height="300" /> -->
 
 ### 👨🏼‍💻 More About Me:
 
