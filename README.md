@@ -16,6 +16,6 @@ As a software engineer, I love problem solving, learning and working within a te
 - 📖 I’m also currently learning [React](https://github.com/facebook/react) along side [Data Structures and Algorithms](https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf)
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
 
-<p>
+<!-- <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-neil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+</p> -->
