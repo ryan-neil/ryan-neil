@@ -13,7 +13,7 @@ As a software engineer, I love problem solving, learning and working within a te
 ### 👨🏼‍💻 More About Me:
 
 - 🟢 I’m currently working on my app [GoSurf](https://github.com/ryan-neil/gosurf)
-- 📖 I’m also currently learning [React](https://github.com/facebook/react) along side [Data Structures and Algorithms](https://github.com/RbkGh/Free-Algorithm-Books/blob/master/book/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf)
+- 📖 I’m also currently learning [Typescript](https://www.typescriptlang.org/) along side [TypeORM](https://typeorm.io/) for [SQL](https://en.wikipedia.org/wiki/SQL) databases
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
 
 <!-- <p>
