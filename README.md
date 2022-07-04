@@ -8,11 +8,11 @@
 
 I'm an architect turned software engineer. I love programming, reading, playing soccer and traveling. I currently reside in San Diego, California!
 
-As a software engineer, I love problem solving, learning and working within a team setting. I take great care in the user experience, architecture, and quality of the code I write and things I build.
+As a developer, I love problem solving, learning and working within a team setting. I take great care in the user experience, architecture, and quality of the code I write and things I build.
 
 ### 👨🏼‍💻 More About Me:
 
-- 🟢 I’m currently working on my app [GoSurf](https://github.com/ryan-neil/gosurf)
+- 🟢 I’m currently working ~~on my app [GoSurf](https://github.com/ryan-neil/gosurf)~~ fulltime at [Cooler Screens](https://www.coolerscreens.com/)
 - 📖 I’m also currently learning [Typescript](https://www.typescriptlang.org/) along side [TypeORM](https://typeorm.io/) for [SQL](https://en.wikipedia.org/wiki/SQL) databases
 - 📫 How to reach me: [Email](mailto:ryanjosephneil@gmail.com)
 
